@@ -1,0 +1,17 @@
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\Bin\Debug\ApplicationIcon.png
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\Bin\Debug\Background.png
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\Bin\Debug\ZipCode.dll
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\Bin\Debug\ZipCode.pdb
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\Bin\Debug\AppManifest.xaml
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\Bin\Debug\ZipCode.xap
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\obj\Debug\App.g.i.cs
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\obj\Debug\City.g.i.cs
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\obj\Debug\State.g.i.cs
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\obj\Debug\ZipCode.g.i.cs
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\obj\Debug\ListResults.g.i.cs
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\obj\Debug\MainPage.g.i.cs
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\obj\Debug\AreaCode.g.i.cs
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\obj\Debug\ZipCode.g.resources
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\obj\Debug\ZipCode.dll
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\obj\Debug\ZipCode.pdb
+D:\Code\android vault 11-8-11\ZipCode\ZipCode\obj\Debug\XapCacheFile.xml
